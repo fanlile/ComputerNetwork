@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ip.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "concepts": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "memory": "c",
+        "optional": "c",
+        "string_view": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "system_error": "c",
+        "exception": "c",
+        "new": "c"
+    }
+}
